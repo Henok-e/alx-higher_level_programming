@@ -1,3 +1,4 @@
 #!/usr/bin/node
 // script to print multiline
-console.log("C is fun\nPython is cool\nJavaScript is amazing");
+const myvar = "C is fun\nPython is cool\nJavaScript is amazing";
+console.log(myvar);
